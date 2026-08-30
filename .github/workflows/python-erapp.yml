@@ -15,4 +15,4 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - run: python bot.py     # توکن توی خود فایلِ، پس بدون env اضافه اجرا میشه
+      - run: python angus.py     # توکن توی خود فایلِ، پس بدون env اضافه اجرا میشه
