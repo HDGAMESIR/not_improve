@@ -36,8 +36,8 @@ from telegram.ext import (
 )
 
 # ==================== تنظیمات ====================
-BOT_TOKEN = "8987959121:AAFr4VSzchBgYVkcw1sCIW4FAGFjaD9kj54"
-ADMIN_IDS = [8678396827, 919876514, 6105964233]
+BOT_TOKEN = ""
+ADMIN_IDS = []
 WALLET_ADDRESS = "TXVMHiECmNZrXJbCtUL7VvN4rg23aHV9xk"
 WALLET_NETWORK = "USDT (TRC20)"
 DB_PATH = "vpnshop.db"
